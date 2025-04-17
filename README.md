@@ -30,3 +30,6 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)"
 
   Ce qui signifie que l'ajout de .gitignore n'a rien fait, c'est pour ça que nous devons le modifier.
+  Une fois la commande "*.class" mise dans le fichier .gitignore, cela fait que Git ignore tous les fichiers qui finissent par ".class".
+
+
